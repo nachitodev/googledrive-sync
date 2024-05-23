@@ -1,0 +1,5 @@
+{
+  "text.autoconfig.Googledrivesync.title": "Sync Folders",
+  "text.autoconfig.Googledrivesync.option.targetDir": "Schematics Directory",
+  "text.autoconfig.Googledrivesync.option.targetDir.@Tooltip": "Schematics Directory"
+}
