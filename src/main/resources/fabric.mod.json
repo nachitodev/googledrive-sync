@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "googledrive-sync",
 	"version": "${version}",
-	"name": "googledrive-sync",
+	"name": "Google Drive Sync",
 	"description": "This Mod syncs Minecraft configs, worlds, schematics and other minecraft things with google drive :]",
 	"authors": [
 		"nachitodev"
